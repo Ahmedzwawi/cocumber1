@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.logwire.RunCucumberTest" time="38.165" tests="12" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="com.logwire.RunCucumberTest" time="38.715" tests="12" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="23"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-23\bin"/>
-    <property name="sun.java.command" value="C:\Users\Admin\AppData\Local\Temp\surefire18004687039500004659\surefirebooter-20250209231957584_3.jar C:\Users\Admin\AppData\Local\Temp\surefire18004687039500004659 2025-02-09T23-19-57_386-jvmRun1 surefire-20250209231957584_1tmp surefire_0-20250209231957584_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Admin\AppData\Local\Temp\surefire5175462427023998594\surefirebooter-20250210000612680_3.jar C:\Users\Admin\AppData\Local\Temp\surefire5175462427023998594 2025-02-10T00-06-12_442-jvmRun1 surefire-20250210000612680_1tmp surefire_0-20250210000612680_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Admin\Downloads\cocumber1\cucumberprojet\target\test-classes;C:\Users\Admin\Downloads\cocumber1\cucumberprojet\target\classes;C:\Users\Admin\.m2\repository\io\cucumber\cucumber-java\7.20.1\cucumber-java-7.20.1.jar;C:\Users\Admin\.m2\repository\io\cucumber\cucumber-core\7.20.1\cucumber-core-7.20.1.jar;C:\Users\Admin\.m2\repository\io\cucumber\cucumber-gherkin\7.20.1\cucumber-gherkin-7.20.1.jar;C:\Users\Admin\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.20.1\cucumber-gherkin-messages-7.20.1.jar;C:\Users\Admin\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\Admin\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\Admin\.m2\repository\io\cucumber\testng-xml-formatter\0.2.0\testng-xml-formatter-0.2.0.jar;C:\Users\Admin\.m2\repository\io\cucumber\query\12.2.0\query-12.2.0.jar;C:\Users\Admin\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\Admin\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\Admin\.m2\repository\io\cucumber\datatable\7.20.1\datatable-7.20.1.jar;C:\Users\Admin\.m2\repository\io\cucumber\cucumber-plugin\7.20.1\cucumber-plugin-7.20.1.jar;C:\Users\Admin\.m2\repository\io\cucumber\docstring\7.20.1\docstring-7.20.1.jar;C:\Users\Admin\.m2\repository\io\cucumber\html-formatter\21.7.0\html-formatter-21.7.0.jar;C:\Users\Admin\.m2\repository\io\cucumber\junit-xml-formatter\0.5.0\junit-xml-formatter-0.5.0.jar;C:\Users\Admin\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\Admin\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Admin\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.20.1\cucumber-junit-platform-engine-7.20.1.jar;C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-engine\1.11.2\junit-platform-engine-1.11.2.jar;C:\Users\Admin\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-commons\1.11.2\junit-platform-commons-1.11.2.jar;C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-suite\1.11.2\junit-platform-suite-1.11.2.jar;C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-suite-api\1.11.2\junit-platform-suite-api-1.11.2.jar;C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.11.2\junit-platform-suite-engine-1.11.2.jar;C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.11.2\junit-platform-suite-commons-1.11.2.jar;C:\Users\Admin\.m2\repository\org\junit\platform\junit-platform-launcher\1.11.2\junit-platform-launcher-1.11.2.jar;C:\Users\Admin\.m2\repository\org\junit\jupiter\junit-jupiter\5.11.2\junit-jupiter-5.11.2.jar;C:\Users\Admin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.2\junit-jupiter-api-5.11.2.jar;C:\Users\Admin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.2\junit-jupiter-params-5.11.2.jar;C:\Users\Admin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.11.2\junit-jupiter-engine-5.11.2.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-java\4.28.1\selenium-java-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-api\4.28.1\selenium-api-4.28.1.jar;C:\Users\Admin\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.28.1\selenium-chrome-driver-4.28.1.jar;C:\Users\Admin\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.28.1\selenium-chromium-driver-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-json\4.28.1\selenium-json-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.28.1\selenium-manager-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v130\4.28.1\selenium-devtools-v130-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v131\4.28.1\selenium-devtools-v131-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v132\4.28.1\selenium-devtools-v132-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.28.1\selenium-devtools-v85-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.28.1\selenium-edge-driver-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.28.1\selenium-firefox-driver-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-http\4.28.1\selenium-http-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.28.1\selenium-ie-driver-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.28.1\selenium-remote-driver-4.28.1.jar;C:\Users\Admin\.m2\repository\com\google\guava\guava\33.4.0-jre\guava-33.4.0-jre.jar;C:\Users\Admin\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\Admin\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Admin\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Admin\.m2\repository\org\checkerframework\checker-qual\3.43.0\checker-qual-3.43.0.jar;C:\Users\Admin\.m2\repository\com\google\errorprone\error_prone_annotations\2.36.0\error_prone_annotations-2.36.0.jar;C:\Users\Admin\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.28.0-alpha\opentelemetry-semconv-1.28.0-alpha.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\opentelemetry-api\1.46.0\opentelemetry-api-1.46.0.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\opentelemetry-context\1.46.0\opentelemetry-context-1.46.0.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.46.0\opentelemetry-exporter-logging-1.46.0.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.46.0\opentelemetry-sdk-common-1.46.0.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.46.0\opentelemetry-sdk-extension-autoconfigure-spi-1.46.0.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.46.0\opentelemetry-sdk-extension-autoconfigure-1.46.0.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.46.0-alpha\opentelemetry-api-incubator-1.46.0-alpha.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.46.0\opentelemetry-sdk-trace-1.46.0.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.46.0\opentelemetry-sdk-1.46.0.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.46.0\opentelemetry-sdk-metrics-1.46.0.jar;C:\Users\Admin\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.46.0\opentelemetry-sdk-logs-1.46.0.jar;C:\Users\Admin\.m2\repository\net\bytebuddy\byte-buddy\1.15.11\byte-buddy-1.15.11.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-os\4.28.1\selenium-os-4.28.1.jar;C:\Users\Admin\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.28.1\selenium-safari-driver-4.28.1.jar;C:\Users\Admin\.m2\repository\org\seleniumhq\selenium\selenium-support\4.28.1\selenium-support-4.28.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Admin\AppData\Local\Temp\surefire18004687039500004659\surefirebooter-20250209231957584_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Admin\AppData\Local\Temp\surefire5175462427023998594\surefirebooter-20250210000612680_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="23.0.2+7-58"/>
@@ -50,7 +50,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-23\bin;%MAVEN_HOME%\bin;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Admin\Downloads\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;;c:\Users\Admin\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-23\bin;%MAVEN_HOME%\bin;C:\Program Files\Git\cmd;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Admin\Downloads\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;;c:\Users\Admin\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Oracle Corporation"/>
@@ -58,7 +58,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="67.0"/>
   </properties>
-  <testcase name="Panier d&apos;achat - Vérification de l&apos;affichage des produits dans le panier" classname="Panier d&apos;achat" time="4.19">
+  <testcase name="Panier d&apos;achat - Vérification de l&apos;affichage des produits dans le panier" classname="Panier d&apos;achat" time="3.58">
     <system-out><![CDATA[
 Scenario: Vérification de l'affichage des produits dans le panier &amp#27;[90m# com/logwire/Cart.feature:3&amp#27;[0m
   &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mje suis sur &amp#27;[0m&amp#27;[32m&amp#27;[1m"https://www.saucedemo.com/"&amp#27;[0m                  &amp#27;[90m# com.logwire.steps.LoginSteps.je_suis_sur(java.lang.String)&amp#27;[0m
@@ -69,7 +69,7 @@ Scenario: Vérification de l'affichage des produits dans le panier &amp#27;[90m#
   &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mje vais sur la page du panier&amp#27;[0m                               &amp#27;[90m# com.logwire.steps.CartSteps.je_vais_sur_la_page_du_panier()&amp#27;[0m
   &amp#27;[32mThen &amp#27;[0m&amp#27;[32mle produit ajouté est bien affiché dans le panier&amp#27;[0m          &amp#27;[90m# com.logwire.steps.CartSteps.le_produit_ajoute_est_bien_affiche_dans_le_panier()&amp#27;[0m
 ]]></system-out>
-    <system-err><![CDATA[févr. 09, 2025 11:20:00 PM io.cucumber.core.resource.ClasspathScanner safelyLoadClass
+    <system-err><![CDATA[févr. 10, 2025 12:06:15 AM io.cucumber.core.resource.ClasspathScanner safelyLoadClass
 WARNING: Failed to load class 'net.bytebuddy.dynamic.loading.ClassInjector$UsingJna$Dispatcher$Windows32BitFunctionMapper'.
 By default Cucumber scans the entire classpath for step definitions.
 You can restrict this by configuring the glue path.
@@ -182,7 +182,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.FunctionMapper
 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
 	... 96 more
 
-févr. 09, 2025 11:20:00 PM io.cucumber.core.resource.ClasspathScanner safelyLoadClass
+févr. 10, 2025 12:06:15 AM io.cucumber.core.resource.ClasspathScanner safelyLoadClass
 WARNING: Failed to load class 'net.bytebuddy.dynamic.loading.ClassInjector$UsingJna$Dispatcher$Jvm'.
 By default Cucumber scans the entire classpath for step definitions.
 You can restrict this by configuring the glue path.
@@ -391,7 +391,7 @@ java.io.FileNotFoundException: src\test\resources\cucumber.properties (Le fichie
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="Page de paiement - Accès au formulaire de paiement" classname="Page de paiement" time="2.59">
+  <testcase name="Page de paiement - Accès au formulaire de paiement" classname="Page de paiement" time="2.893">
     <system-out><![CDATA[
 Scenario: Accès au formulaire de paiement              &amp#27;[90m# com/logwire/Checkout.feature:3&amp#27;[0m
   &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mje suis sur &amp#27;[0m&amp#27;[32m&amp#27;[1m"https://www.saucedemo.com/"&amp#27;[0m       &amp#27;[90m# com.logwire.steps.LoginSteps.je_suis_sur(java.lang.String)&amp#27;[0m
@@ -499,7 +499,7 @@ Scenario: Accès au formulaire de paiement              &amp#27;[90m# com/logwir
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="Page de paiement - Saisie des informations client" classname="Page de paiement" time="3.132">
+  <testcase name="Page de paiement - Saisie des informations client" classname="Page de paiement" time="3.406">
     <system-out><![CDATA[
 Scenario: Saisie des informations client            &amp#27;[90m# com/logwire/Checkout.feature:13&amp#27;[0m
   &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mje suis sur &amp#27;[0m&amp#27;[32m&amp#27;[1m"https://www.saucedemo.com/"&amp#27;[0m    &amp#27;[90m# com.logwire.steps.LoginSteps.je_suis_sur(java.lang.String)&amp#27;[0m
@@ -610,7 +610,7 @@ Scenario: Saisie des informations client            &amp#27;[90m# com/logwire/Ch
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="Login1 - The example" classname="Login1" time="2.231">
+  <testcase name="Login1 - The example" classname="Login1" time="2.225">
     <system-out><![CDATA[
 @positif
 Scenario: The example                            &amp#27;[90m# com/logwire/Login1.feature:5&amp#27;[0m
@@ -716,7 +716,7 @@ Scenario: The example                            &amp#27;[90m# com/logwire/Login
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="Login1 - The example" classname="Login1" time="2.418">
+  <testcase name="Login1 - The example" classname="Login1" time="2.261">
     <system-out><![CDATA[
 @negatif
 Scenario: The example                                 &amp#27;[90m# com/logwire/Login1.feature:23&amp#27;[0m
@@ -822,7 +822,7 @@ Scenario: The example                                 &amp#27;[90m# com/logwire/
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="Login1 - The example" classname="Login1" time="2.059">
+  <testcase name="Login1 - The example" classname="Login1" time="2.246">
     <system-out><![CDATA[
 @negatif
 Scenario: The example                              &amp#27;[90m# com/logwire/Login1.feature:34&amp#27;[0m
@@ -926,9 +926,29 @@ Scenario: The example                              &amp#27;[90m# com/logwire/Log
 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+févr. 10, 2025 12:06:40 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
+WARNING: Connection reset
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:403)
+	at java.base/sun.nio.ch.SocketChannelImpl.implRead(SocketChannelImpl.java:435)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:493)
+	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1178)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:841)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1478)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1423)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1423)
+
 ]]></system-err>
   </testcase>
-  <testcase name="Login1 - Connexion avec un compte à performance lente" classname="Login1" time="7.48">
+  <testcase name="Login1 - Connexion avec un compte à performance lente" classname="Login1" time="7.395">
     <system-out><![CDATA[
 @positif
 Scenario: Connexion avec un compte à performance lente &amp#27;[90m# com/logwire/Login1.feature:13&amp#27;[0m
@@ -1036,7 +1056,7 @@ Scenario: Connexion avec un compte à performance lente &amp#27;[90m# com/logwir
 la connexion est lente mais réussie
 ]]></system-err>
   </testcase>
-  <testcase name="Login1 - Connexion avec un compte bloqué" classname="Login1" time="2.371">
+  <testcase name="Login1 - Connexion avec un compte bloqué" classname="Login1" time="2.168">
     <system-out><![CDATA[
 @negatif
 Scenario: Connexion avec un compte bloqué            &amp#27;[90m# com/logwire/Login1.feature:43&amp#27;[0m
@@ -1142,7 +1162,7 @@ Scenario: Connexion avec un compte bloqué            &amp#27;[90m# com/logwire/
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="Produits - Verification de list de produits" classname="Produits" time="2.306">
+  <testcase name="Produits - Verification de list de produits" classname="Produits" time="2.345">
     <system-out><![CDATA[
 Scenario: Verification de list de produits       &amp#27;[90m# com/logwire/Produits.feature:3&amp#27;[0m
   &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mje suis sur &amp#27;[0m&amp#27;[32m&amp#27;[1m"https://www.saucedemo.com/"&amp#27;[0m &amp#27;[90m# com.logwire.steps.LoginSteps.je_suis_sur(java.lang.String)&amp#27;[0m
@@ -1248,7 +1268,7 @@ Scenario: Verification de list de produits       &amp#27;[90m# com/logwire/Produ
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></system-err>
   </testcase>
-  <testcase name="Produits - Verification du tri des produits par nom" classname="Produits" time="2.515">
+  <testcase name="Produits - Verification du tri des produits par nom" classname="Produits" time="2.492">
     <system-out><![CDATA[
 Scenario: Verification du tri des produits par nom    &amp#27;[90m# com/logwire/Produits.feature:12&amp#27;[0m
   &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mje suis sur &amp#27;[0m&amp#27;[32m&amp#27;[1m"https://www.saucedemo.com/"&amp#27;[0m      &amp#27;[90m# com.logwire.steps.LoginSteps.je_suis_sur(java.lang.String)&amp#27;[0m
@@ -1353,29 +1373,9 @@ Scenario: Verification du tri des produits par nom    &amp#27;[90m# com/logwire/
 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-févr. 09, 2025 11:20:32 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
-WARNING: Connection reset
-java.net.SocketException: Connection reset
-	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:403)
-	at java.base/sun.nio.ch.SocketChannelImpl.implRead(SocketChannelImpl.java:435)
-	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:493)
-	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1178)
-	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:841)
-	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233)
-	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782)
-	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965)
-	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
-	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1478)
-	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1423)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
-	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1423)
-
 ]]></system-err>
   </testcase>
-  <testcase name="Produits - Ajout d&apos;un produit au panier" classname="Produits" time="2.33">
+  <testcase name="Produits - Ajout d&apos;un produit au panier" classname="Produits" time="2.634">
     <system-out><![CDATA[
 Scenario: Ajout d'un produit au panier                     &amp#27;[90m# com/logwire/Produits.feature:21&amp#27;[0m
   &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mje suis sur &amp#27;[0m&amp#27;[32m&amp#27;[1m"https://www.saucedemo.com/"&amp#27;[0m           &amp#27;[90m# com.logwire.steps.LoginSteps.je_suis_sur(java.lang.String)&amp#27;[0m
@@ -1480,9 +1480,29 @@ Scenario: Ajout d'un produit au panier                     &amp#27;[90m# com/log
 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+févr. 10, 2025 12:06:50 AM org.openqa.selenium.remote.http.WebSocket$Listener onError
+WARNING: Connection reset
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:403)
+	at java.base/sun.nio.ch.SocketChannelImpl.implRead(SocketChannelImpl.java:435)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:493)
+	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1178)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:841)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280)
+	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782)
+	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965)
+	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1478)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1423)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1423)
+
 ]]></system-err>
   </testcase>
-  <testcase name="Produits - Suppression d&apos;un produit du panier" classname="Produits" time="2.462">
+  <testcase name="Produits - Suppression d&apos;un produit du panier" classname="Produits" time="2.536">
     <system-out><![CDATA[
 Scenario: Suppression d'un produit du panier               &amp#27;[90m# com/logwire/Produits.feature:30&amp#27;[0m
   &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mje suis sur &amp#27;[0m&amp#27;[32m&amp#27;[1m"https://www.saucedemo.com/"&amp#27;[0m           &amp#27;[90m# com.logwire.steps.LoginSteps.je_suis_sur(java.lang.String)&amp#27;[0m
